@@ -18,6 +18,27 @@
       "position": { "x": 100, "y": 50 },
       "type": "input",
       "sourcePosition": "right"
+    },
+    {
+      "id": 2,
+      "data": { "label": "Interface 2" },
+      "position": { "x": 100, "y": 100 },
+      "type": "input",
+      "sourcePosition": "right"
+    },
+    {
+      "id": 3,
+      "data": { "label": "Interface 3" },
+      "position": { "x": 500, "y": 50 },
+      "type": "output",
+      "targetPosition": "left"
+    },
+    {
+      "id": 4,
+      "data": { "label": "Interface 4" },
+      "position": { "x": 500, "y": 100 },
+      "type": "output",
+      "targetPosition": "left"
     }
   ],
   "ethernet": []
