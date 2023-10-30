@@ -18,7 +18,11 @@
   ],
   "Ethernet": [
     {
-      "id": 1
+      "id": 1,
+      "data": { "label": "Network Port 1" },
+      "position": { "x": 100, "y": 50 },
+      "type": "input",
+      "sourcePosition": "right"
     }
   ]
 }
