@@ -9,14 +9,9 @@
       "name": "John",
       "age": 45,
       "id": 2
-    },
-    {
-      "name": "John",
-      "age": 45,
-      "id": 3
     }
   ],
-  "Ethernet": [
+  "nodes": [
     {
       "id": 1,
       "data": { "label": "Network Port 1" },
@@ -24,5 +19,6 @@
       "type": "input",
       "sourcePosition": "right"
     }
-  ]
+  ],
+  "ethernet": []
 }
