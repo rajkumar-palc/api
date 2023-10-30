@@ -10,5 +10,42 @@
       "age": 45,
       "id": 2
     }
+  ],
+  "Ethernet": [
+    {
+      id: "1",
+      data: { label: "Network Port 1" },
+      position: { x: 100, y: 50 },
+      type: "input",
+      sourcePosition: "right"
+    },
+    {
+      id: "2",
+      data: { label: "Network Port 2" },
+    position: { x: 100, y: 120 },
+    type: "input",
+    sourcePosition: "right"
+  },
+  {
+    id: "3",
+    data: { label: "Network Port 3" },
+    position: { x: 100, y: 190 },
+    type: "input",
+    sourcePosition: "right"
+  },
+  {
+    id: "4",
+    data: { label: "Network Port 4" },
+    position: { x: 100, y: 260 },
+    type: "input",
+    sourcePosition: "right"
+  },
+  {
+    id: "5",
+    data: { label: "Tool Port 1" },
+    position: { x: 1000, y: 50 },
+    targetPosition: "left",
+    type: "output"
+  }
   ]
 }
