@@ -51,6 +51,10 @@
       "name" : "Ethernet 2"
     },
     {
+      "id" : 3,
+      "name" : "Ethernet 3"
+    },
+    {
       "id" : 4,
       "name" : "Ethernet 4"
     },
@@ -64,7 +68,7 @@
     },
     {
       "id" : 7,
-      "name" : "Ethernet 37"
+      "name" : "Ethernet 7"
     }
   ]
 }
