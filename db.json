@@ -39,6 +39,13 @@
       "position": { "x": 500, "y": 100 },
       "type": "output",
       "targetPosition": "left"
+    },
+    {
+      "id": 5,
+      "data": { "label": "Demo 5" },
+      "position": { "x": 500, "y": 150 },
+      "type": "output",
+      "targetPosition": "left"
     }
   ],
   "ethernet": [
